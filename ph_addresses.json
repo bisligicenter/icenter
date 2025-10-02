@@ -1,0 +1,512 @@
+[
+    {
+        "name": "Caloocan",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Caloocan City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Las Piñas",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Las Piñas City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Makati",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Makati City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Malabon",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Malabon City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Mandaluyong",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Mandaluyong City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Manila",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Manila City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Marikina",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Marikina City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Muntinlupa",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Muntinlupa City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Navotas",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Navotas City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Parañaque",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Parañaque City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Pasay",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Pasay City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Pasig",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Pasig City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Quezon City",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Quezon City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "San Juan",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "San Juan City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Taguig",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Taguig City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Valenzuela",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Valenzuela City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Pateros",
+        "region": "NCR - National Capital Region",
+        "cities": [{"name": "Pateros", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Abra",
+        "region": "CAR - Cordillera Administrative Region",
+        "cities": [{"name": "Bangued", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Apayao",
+        "region": "CAR - Cordillera Administrative Region",
+        "cities": [{"name": "Kabugao", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Benguet",
+        "region": "CAR - Cordillera Administrative Region",
+        "cities": [{"name": "La Trinidad", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Ifugao",
+        "region": "CAR - Cordillera Administrative Region",
+        "cities": [{"name": "Lagawe", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Kalinga",
+        "region": "CAR - Cordillera Administrative Region",
+        "cities": [{"name": "Tabuk", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Mountain Province",
+        "region": "CAR - Cordillera Administrative Region",
+        "cities": [{"name": "Bontoc", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Baguio City",
+        "region": "CAR - Cordillera Administrative Region",
+        "cities": [{"name": "Baguio City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Ilocos Norte",
+        "region": "Region I - Ilocos Region",
+        "cities": [{"name": "Laoag City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Ilocos Sur",
+        "region": "Region I - Ilocos Region",
+        "cities": [{"name": "Vigan City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "La Union",
+        "region": "Region I - Ilocos Region",
+        "cities": [{"name": "San Fernando City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Pangasinan",
+        "region": "Region I - Ilocos Region",
+        "cities": [{"name": "Lingayen", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Batanes",
+        "region": "Region II - Cagayan Valley",
+        "cities": [{"name": "Basco", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Cagayan",
+        "region": "Region II - Cagayan Valley",
+        "cities": [{"name": "Tuguegarao City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Isabela",
+        "region": "Region II - Cagayan Valley",
+        "cities": [{"name": "Ilagan", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Nueva Vizcaya",
+        "region": "Region II - Cagayan Valley",
+        "cities": [{"name": "Bayombong", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Quirino",
+        "region": "Region II - Cagayan Valley",
+        "cities": [{"name": "Cabarroguis", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Aurora",
+        "region": "Region III - Central Luzon",
+        "cities": [{"name": "Baler", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Bataan",
+        "region": "Region III - Central Luzon",
+        "cities": [{"name": "Balanga City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Bulacan",
+        "region": "Region III - Central Luzon",
+        "cities": [{"name": "Malolos City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Nueva Ecija",
+        "region": "Region III - Central Luzon",
+        "cities": [{"name": "Palayan City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Pampanga",
+        "region": "Region III - Central Luzon",
+        "cities": [{"name": "San Fernando City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Tarlac",
+        "region": "Region III - Central Luzon",
+        "cities": [{"name": "Tarlac City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Zambales",
+        "region": "Region III - Central Luzon",
+        "cities": [{"name": "Iba", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Cavite",
+        "region": "Region IV-A - CALABARZON",
+        "cities": [{"name": "Imus", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Laguna",
+        "region": "Region IV-A - CALABARZON",
+        "cities": [{"name": "Calamba City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Batangas",
+        "region": "Region IV-A - CALABARZON",
+        "cities": [{"name": "Batangas City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Rizal",
+        "region": "Region IV-A - CALABARZON",
+        "cities": [{"name": "Antipolo", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Quezon",
+        "region": "Region IV-A - CALABARZON",
+        "cities": [{"name": "Lucena", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Occidental Mindoro",
+        "region": "MIMAROPA Region",
+        "cities": [{"name": "Mamburao", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Oriental Mindoro",
+        "region": "MIMAROPA Region",
+        "cities": [{"name": "Calapan", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Marinduque",
+        "region": "MIMAROPA Region",
+        "cities": [{"name": "Boac", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Romblon",
+        "region": "MIMAROPA Region",
+        "cities": [{"name": "Romblon", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Palawan",
+        "region": "MIMAROPA Region",
+        "cities": [{"name": "Puerto Princesa City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Albay",
+        "region": "Region V - Bicol Region",
+        "cities": [{"name": "Legazpi City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Camarines Norte",
+        "region": "Region V - Bicol Region",
+        "cities": [{"name": "Daet", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Camarines Sur",
+        "region": "Region V - Bicol Region",
+        "cities": [{"name": "Pili", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Catanduanes",
+        "region": "Region V - Bicol Region",
+        "cities": [{"name": "Virac", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Masbate",
+        "region": "Region V - Bicol Region",
+        "cities": [{"name": "Masbate City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Sorsogon",
+        "region": "Region V - Bicol Region",
+        "cities": [{"name": "Sorsogon City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Aklan",
+        "region": "Region VI - Western Visayas",
+        "cities": [{"name": "Kalibo", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Antique",
+        "region": "Region VI - Western Visayas",
+        "cities": [{"name": "San Jose de Buenavista", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Capiz",
+        "region": "Region VI - Western Visayas",
+        "cities": [{"name": "Roxas City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Guimaras",
+        "region": "Region VI - Western Visayas",
+        "cities": [{"name": "Jordan", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Iloilo",
+        "region": "Region VI - Western Visayas",
+        "cities": [{"name": "Iloilo City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Cebu",
+        "region": "Region VII - Central Visayas",
+        "cities": [{"name": "Cebu City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Bohol",
+        "region": "Region VII - Central Visayas",
+        "cities": [{"name": "Tagbilaran City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Negros Oriental",
+        "region": "Region VII - Central Visayas",
+        "cities": [{"name": "Dumaguete City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Siquijor",
+        "region": "Region VII - Central Visayas",
+        "cities": [{"name": "Siquijor", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Biliran",
+        "region": "Region VIII - Eastern Visayas",
+        "cities": [{"name": "Naval", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Eastern Samar",
+        "region": "Region VIII - Eastern Visayas",
+        "cities": [{"name": "Borongan City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Leyte",
+        "region": "Region VIII - Eastern Visayas",
+        "cities": [{"name": "Tacloban City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Northern Samar",
+        "region": "Region VIII - Eastern Visayas",
+        "cities": [{"name": "Catarman", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Samar",
+        "region": "Region VIII - Eastern Visayas",
+        "cities": [{"name": "Catbalogan City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Southern Leyte",
+        "region": "Region VIII - Eastern Visayas",
+        "cities": [{"name": "Maasin City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Zamboanga del Norte",
+        "region": "Region IX - Zamboanga Peninsula",
+        "cities": [{"name": "Dipolog City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Zamboanga del Sur",
+        "region": "Region IX - Zamboanga Peninsula",
+        "cities": [{"name": "Pagadian City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Zamboanga Sibugay",
+        "region": "Region IX - Zamboanga Peninsula",
+        "cities": [{"name": "Ipil", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Bukidnon",
+        "region": "Region X - Northern Mindanao",
+        "cities": [{"name": "Malaybalay City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Camiguin",
+        "region": "Region X - Northern Mindanao",
+        "cities": [{"name": "Mambajao", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Lanao del Norte",
+        "region": "Region X - Northern Mindanao",
+        "cities": [{"name": "Tubod", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Misamis Occidental",
+        "region": "Region X - Northern Mindanao",
+        "cities": [{"name": "Oroquieta City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Misamis Oriental",
+        "region": "Region X - Northern Mindanao",
+        "cities": [{"name": "Cagayan de Oro City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Davao de Oro",
+        "region": "Region XI - Davao Region",
+        "cities": [{"name": "Nabunturan", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Davao del Norte",
+        "region": "Region XI - Davao Region",
+        "cities": [{"name": "Tagum City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Davao del Sur",
+        "region": "Region XI - Davao Region",
+        "cities": [{"name": "Digos City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Davao Oriental",
+        "region": "Region XI - Davao Region",
+        "cities": [{"name": "Mati City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Davao Occidental",
+        "region": "Region XI - Davao Region",
+        "cities": [{"name": "Malita", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Cotabato (North Cotabato)",
+        "region": "Region XII - SOCCSKSARGEN",
+        "cities": [{"name": "Kidapawan City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "South Cotabato",
+        "region": "Region XII - SOCCSKSARGEN",
+        "cities": [{"name": "Koronadal City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Sultan Kudarat",
+        "region": "Region XII - SOCCSKSARGEN",
+        "cities": [{"name": "Isulan", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Sarangani",
+        "region": "Region XII - SOCCSKSARGEN",
+        "cities": [{"name": "Alabel", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Agusan del Norte",
+        "region": "Region XIII - Caraga",
+        "cities": [{"name": "Butuan City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Agusan del Sur",
+        "region": "Region XIII - Caraga",
+        "cities": [{"name": "Prosperidad", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Surigao del Norte",
+        "region": "Region XIII - Caraga",
+        "cities": [{"name": "Surigao City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Surigao del Sur",
+        "region": "Region XIII - Caraga",
+        "cities": [{"name": "Tandag City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Dinagat Islands",
+        "region": "Region XIII - Caraga",
+        "cities": [{"name": "San Jose", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Basilan",
+        "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+        "cities": [{"name": "Lamitan City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Lanao del Sur",
+        "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+        "cities": [{"name": "Marawi City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Maguindanao del Norte",
+        "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+        "cities": [{"name": "Datu Odin Sinsuat", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Maguindanao del Sur",
+        "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+        "cities": [{"name": "Buluan", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Sulu",
+        "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+        "cities": [{"name": "Jolo", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Tawi-Tawi",
+        "region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+        "cities": [{"name": "Bongao", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Negros Occidental",
+        "region": "Region VI - Western Visayas",
+        "cities": [{"name": "Bacolod City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Negros Occidental",
+        "region": "NIR - Negros Island Region",
+        "cities": [{"name": "Bacolod City", "barangays": ["Poblacion"]}]
+    },
+    {
+        "name": "Negros Oriental",
+        "region": "NIR - Negros Island Region",
+        "cities": [{"name": "Dumaguete City", "barangays": ["Poblacion"]}]
+    }
+]
